@@ -1,7 +1,7 @@
-** Universidade Federal de Mato Grosso - UFMT **
-** Campus Universitário do Araguaia **
-** Museu de História Natural do Araguaia - MuHNA **
-** Curso de Bacharelado em Ciência da Computação **
+**Universidade Federal de Mato Grosso - UFMT**
+**Campus Universitário do Araguaia**
+**Museu de História Natural do Araguaia - MuHNA**
+**Curso de Bacharelado em Ciência da Computação**
 
 # **Sistema de reserva** *(place_reserve)*
 
