@@ -10,11 +10,14 @@
 # **Sistema de reserva** *(place_reserve)*
 
 Barra do Garças/MT, agosto de 2025
-Desenvolvedores responsáveis:
+
+## Desenvolvedores responsáveis:
 - Rafael Nalin
 - Ivairton Santos
+
 Versão 0.1
 
+## Descrição:
 Sistema para gestão e reserva de espaços administrados pelo MuHNA.
 
 O sistema prevê o desenvolvimento de API para gestão, controle de reserva e publicação dos agendamentos dos espaços administrados pelo MuHNA.
